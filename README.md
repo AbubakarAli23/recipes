@@ -1,2 +1,2 @@
 # recipes
-a recipe site with basic html
+All the recipes will are here
